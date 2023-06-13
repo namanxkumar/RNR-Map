@@ -14,6 +14,8 @@ Official Github repository for <b>"Renderable Neural Radiance Map for Visual Nav
 $\color{#58A6FF}{\textsf{Highlighted Paper at CVPR 2023}}$
 <br>
   
+ 
+Currently, the source code is unavailable due to copyright issue.
 
 <img src="/media/overview.gif">
 <br>
